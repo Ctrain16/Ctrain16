@@ -6,6 +6,7 @@
 - 📝 2021 Goals: Improve my personal portfolio and launch my own personal website
 
 ### Connect with me:
+[<img align="left" alt="Ctrain#6679 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="_Ctrain37 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
@@ -25,5 +26,6 @@
 
 
 [twitter]: https://twitter.com/CalTrainor
+[discord]: https://discordapp.com/users/327627829221261312/
 [upei]: https://www.upei.ca/
 [vscode]: https://code.visualstudio.com/
