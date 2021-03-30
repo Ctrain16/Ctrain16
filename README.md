@@ -24,6 +24,6 @@
 
 
 
-[twitter]: https://twitter.com/_Ctrain37
+[twitter]: https://twitter.com/CalTrainor
 [upei]: https://www.upei.ca/
 [vscode]: https://code.visualstudio.com/
