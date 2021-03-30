@@ -1,16 +1,16 @@
-## Hello! I'm Cal, aka @Ctrain16. Welcome to my GitHub Profile!
+## Hello! I'm Cal, Welcome to my GitHub Profile!
 
 ### About Me
 - 🏫 I'm attending school at [UPEI][upei]
 - 🌱 I’m currently expanding my knowledge of JavaScript
-- 📝 2021 Goals: Expand my personal portfolio and launch my own personal website
+- 📝 2021 Goals: Improve my personal portfolio and launch my own personal website
 
 ### Connect with me:
 [<img align="left" alt="_Ctrain37 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
-### Languages and Tools:
+### Technology that I frequently use:
 
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
