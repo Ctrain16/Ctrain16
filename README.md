@@ -5,7 +5,7 @@
 - 🌱 I’m currently expanding my knowledge of JavaScript
 - 📝 2021 Goals: 
   - Improve my personal portfolio
-  - ✔ launch my own personal website [caltrainor.com](https://caltrainor.com/)
+  - launch my own personal website. ✔ [caltrainor.com](https://caltrainor.com/)
 
 ### Connect with me:
 [<img align="left" alt="Ctrain#6679 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
