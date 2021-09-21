@@ -1,4 +1,4 @@
-[![Header](https://github.com/Ctrain16/Ctrain16/blob/main/banner.png?raw=true)](https://github.com/Ctrain16)
+[![Header](https://github.com/Ctrain16/Ctrain16/blob/main/bannernew.png?raw=true)](https://github.com/Ctrain16)
 
 <h3 align="center">About Me</h3>
 
