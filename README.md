@@ -25,7 +25,7 @@
 
   <h3>My GitHub Stats</h3>
   
-  [![Ctrain's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctrain16&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Ctrain's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctrain16&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
