@@ -7,7 +7,7 @@
 
 <div align="center">
   
-  <h3>Technology that I frequently use:</h3>
+  <h3>Technology that I frequently use</h3>
 
 [![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
