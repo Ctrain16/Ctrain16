@@ -18,7 +18,8 @@
 [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=square&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Windows10](https://img.shields.io/badge/Windows-0078D6?style=square&logo=windows&logoColor=white)](https://www.microsoft.com/en-ca/windows)
-[![Ubunut](https://img.shields.io/badge/Ubuntu-E95420?style=square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)  
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)  
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 </div>
 
 <div align="center">
