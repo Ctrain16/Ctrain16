@@ -2,8 +2,8 @@
 
 <h3 align="center">About Me</h3>
 
-- I'm a fourth year computer science student currently attending [UPEI][upei].
-- Some projects I'm currenlty working on are my custom discord bot I named [Ciara](https://github.com/Ctrain16/Ciara), and a [website](https://ctrainstudios.com/#/) to display my custom fantasy hockey stats.
+- I'm a Full Stack Engineer at CANImmunize and I'm also finishing up my final year of my computer science degree at [UPEI][upei].
+- Some interests outside of coding include video games, skiing, and movies!
 
 <div align="center">
   
