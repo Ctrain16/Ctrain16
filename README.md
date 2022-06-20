@@ -2,7 +2,8 @@
 
 <h3 align="center">About Me</h3>
 
-- I'm a Full Stack Engineer at CANImmunize and I'm also finishing up my final year of my computer science degree at [UPEI][upei].
+- I'm a software developer based in Canada that loves to program.
+- I started my programming journey back in 2018 when I learned Java during my Computer Science degree. Since then, I've worked with numerous technologies, including JavaScript, TypeScript, Node.js, Vue.js, React, Postgres, and Mongodb.
 - Some interests outside of coding include video games, skiing, and movies!
 
 <div align="center">
